@@ -1,4 +1,4 @@
-# Drug Performance Evaluation
+# Drug Performance Evaluation / Recommendation
 
 The aim of this project is to evaluate the dataset which contains several metrics that drives consumer preference. Also, to give drug recommendations for common illnesses based on the reviews provided by people. The notebooks folder contains the script for the data exploration, analysis and functions.
 
